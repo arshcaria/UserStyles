@@ -1,3 +1,4 @@
+@-moz-document domain("quora.com") {
 CONFIG = {
   'Arial Black'        : 'ENG',
   'Arial'              : 'ENG',
@@ -97,3 +98,5 @@ for FONT in CONFIG
 
 pre, code
   font-family MONOFONT CJKFONT !important
+
+}
