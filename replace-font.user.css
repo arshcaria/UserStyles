@@ -1,3 +1,10 @@
+/* ==UserStyle==
+@name           Empty @name replaces the default template - 1/11/2019, 4:25:54 PM
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
 @-moz-document domain("quora.com") {
 CONFIG = {
   'Arial Black'        : 'ENG',
